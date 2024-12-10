@@ -65,3 +65,12 @@ flutter:
     - assets/images/hyuseong.png
     - assets/images/eunseok.png
     - assets/images/meca.png
+      
+      
+      build/
+      .dart_tool/
+      .idea/
+      .vscode/
+      .flutter-plugins
+      .flutter-plugins-dependencies
+      *.lock
