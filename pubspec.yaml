@@ -1,0 +1,67 @@
+name: gwproject
+description:
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  smooth_page_indicator: ^1.0.0
+  flutter:
+    sdk: flutter
+  carousel_slider: ^5.0.0
+  cupertino_icons: ^1.0.8
+  http: ^0.13.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  url_launcher: ^6.1.7
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/main1.jpg
+    - assets/images/main2.jpg
+    - assets/images/main3.jpg
+    - assets/images/main4.jpg
+    - assets/images/dicon.png
+    - assets/images/dicon2.png
+    - assets/images/me.png
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/insta.webp
+    - assets/images/ytube.png
+    - assets/images/pay1.png
+    - assets/images/pay2.png
+    - assets/images/pay3.png
+    - assets/images/pay4.png
+    - assets/images/pay5.png
+    - assets/images/kitaek.png
+    - assets/images/mov1.png
+    - assets/images/mov2.png
+    - assets/images/mov3.png
+    - assets/images/mov4.png
+    - assets/images/2024.png
+    - assets/images/2023.png
+    - assets/images/2022.png
+    - assets/images/2021.png
+    - assets/images/2020.png
+    - assets/images/2019.png
+    - assets/images/enter.png
+    - assets/images/job.png
+    - assets/images/soft.png
+    - assets/images/digital.png
+    - assets/images/info.png
+    - assets/images/multi.png
+    - assets/images/nakgeon.png
+    - assets/images/hyuseong.png
+    - assets/images/eunseok.png
+    - assets/images/meca.png
